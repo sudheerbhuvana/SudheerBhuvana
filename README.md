@@ -7,4 +7,4 @@
   </a>
 </p>
 
-[![Star History Chart](https://api.star-history.com/image?repos=stackryze/FreeDomains&type=date&legend=top-left)](https://www.star-history.com/?repos=stackryze%2FFreeDomains&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/image?repos=stackryze/FreeDomains&type=date&theme=dark&legend=top-left)](https://www.star-history.com/?repos=stackryze%2FFreeDomains&type=date)
