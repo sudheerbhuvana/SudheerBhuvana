@@ -6,3 +6,5 @@
     <img width="38%" src="https://discord.c99.nl/widget/theme-2/781882376790736937.png" />
   </a>
 </p>
+
+[![Star History Chart](https://api.star-history.com/image?repos=stackryze/FreeDomains&type=date&legend=top-left)](https://www.star-history.com/?repos=stackryze%2FFreeDomains&type=date&legend=top-left)
