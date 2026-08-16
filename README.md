@@ -7,4 +7,4 @@
   </a>
 </p>
 
-[![Star History Chart](https://api.star-history.com/image?repos=stackryze/FreeDomains&type=date&theme=dark&legend=top-left)](https://www.star-history.com/?repos=stackryze%2FFreeDomains&type=date)
+[![Star History Chart](https://api.star-history.com/image?repos=stackryze/FreeDomains&type=date&theme=dark&legend=top-left&sealed_token=XL5STMpLyAMI93NSCTCrgRVqICzmw0R_tSU2QpHiAlrk0A9NY5cEChhvYcGZpVz9DHvUw6eUP65D5rZvbJKUYMw7XzxsxSTNLF7eA4gC5E3SYI3xzvUXDKmxiVFhDmcha7UIrK3fxM11F7nd1tk-5VtHdddf_k1aCNSLqF6lOXTxtbfW2cFoBykqI_Qa)](https://www.star-history.com/?repos=stackryze%2FFreeDomains&type=date&legend=top-left)
